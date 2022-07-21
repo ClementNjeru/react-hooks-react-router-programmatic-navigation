@@ -41,7 +41,7 @@ function Navbar({ setIsLoggedIn }) {
           background: "darkblue",
         }}
       >
-        About
+        
       </NavLink>
       <NavLink
         to="/login"
